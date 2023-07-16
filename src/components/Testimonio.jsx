@@ -1,10 +1,6 @@
 import React from 'react';
 import '../hojas-de-estilo/Testimonio.css';
 
-//Props que recibe: imagen, pais, nombre, empresa, cargo, y testimonioo (Texto)
-
-
-
 function Testimonio(props) {
   return (
     <div className='contenedor-testimonio'>
